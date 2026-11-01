@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**bone-fires/bone-fires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ⚔️ Hail, Traveler! Welcome to My Realm ⚔️
 
-Here are some ideas to get you started:
+<!-- PROFILE BANNER -->
+<img src="https://unsplash.com" width="100%" alt="Medieval Castle Banner" style="border-radius: 8px;">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+*"An aspiring scribe exploring the digital archives, crafting code, and casting spells in the terminal."*
+
+---
+
+### 🛡️ Current Character Stats
+
+<!-- Replace YOUR-GITHUB-USERNAME in the links below -->
+<img src="https://vercel.app" height="150" alt="Stats Scroll">
+<img src="https://vercel.app" height="150" alt="Magic Elements">
+
+---
+
+### 🎒 Spellbook & Inventory (Tech Stack)
+
+<!-- You can add or remove these badges as you learn new skills! -->
+<img>https://shields.io)
+<img>https://shields.io)
+<img>https://shields.io)
+<img>https://shields.io)
+<img>https://shields.io)
+
+</div>
+
+---
+
+### 📜 My Quest Log
+- 🗺️ **Current Campaign:** Learning the foundational arts of frontend development.
+- 🔮 **Alchemical Studies:** Figuring out how GitHub repositories and Tumblr customization work.
+- 🦅 **Send a Messenger Pigeon:** You can find me sharing aesthetics over on my new Tumblr!
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com👑+REVENUE+LOGGED+(VIEWS)&color=d4af37&style=flat-square" alt="Profile Views">
+</div>
