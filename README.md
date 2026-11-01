@@ -22,12 +22,7 @@
 
 ### 🎒 Spellbook & Inventory (Tech Stack)
 
-<!-- You can add or remove these badges as you learn new skills! -->
-<img>https://shields.io)
-<img>https://shields.io)
-<img>https://shields.io)
-<img>https://shields.io)
-<img>https://shields.io)
+<img src="https://shields.io" alt="HTML5"> <img src="https://shields.io" alt="CSS3"> <img src="https://shields.io" alt="Markdown"> <img src="https://shields.io" alt="Git"> <img src="https://shields.io" alt="Tumblr">
 
 </div>
 
