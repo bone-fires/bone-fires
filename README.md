@@ -1,13 +1,13 @@
 <table>
 <tr>
 
-<td width="45%" valign="top">
+<td width="60%" valign="top">
 
 <img width="300" src="https://github.com/user-attachments/assets/0e52bef1-46be-4116-ae44-7c08bf6d8f9a"/>
 
 </td>
 
-<td width="55%" valign="top">
+<td width="40%" valign="top">
 
 <pre>
 ⚓ ennuiasathesispaper
