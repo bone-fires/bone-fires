@@ -1,63 +1,43 @@
 <table>
 <tr>
 
-<td width="40%" valign="top">
+<td width="45%" valign="top">
 
 <img width="300" src="https://github.com/user-attachments/assets/0e52bef1-46be-4116-ae44-7c08bf6d8f9a"/>
 
 </td>
 
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
 <pre>
-⚓ adwaithha8c@gmail.com
+⚓ ennuiasathesispaper
 -------------------------------------------------------
-🛡️ andrew@grant
-───────────────────────────────────────────────────────
 
-.OS:............................. Arch Linux, Windows
-.Uptime:......................... 22 years, 5 months, 29 days
-.Host:........................... Digital Squire
-.Kernel:......................... Code Alchemist (Scribe) v1.0
-.IDE:............................ Neovim, VSCode, Tumblr Terminal
+.OS:............................. Windows(yeah, sue me)
+.IDE:............................ VSCode, A-SDK
 
-Languages.Arcane:................ Java, Python, JavaScript, C++
-Languages.Scrolls:............... HTML, CSS, Markdown, YAML
-Languages.Mortal:................ English, Elvish
+understands:................ Python(cute language, icl), C(this is how we were meant to code)
+furthermore:............... HTML, CSS, Markdown(THE UNDISPUTED GOAT, I WILL FIGHT YOU)
 
-Hobbies.Alchemy:.................
-    • Custom Tumblr Themes
-    • CSS Modding
-    • Open Source Projects
+primarily engaging in:.................
+    • basically any opensource project that catches my eye( shiny things)
+    • retro games that i try to make as small as possible
+    • there's this LARGE LIST i want to complete
 
-Hobbies.Smithing:................
-    • Overclocking
-    • PC Building
-    • Linux Ricing
-    • Git
+if ever thee wisheth to contact me:
 
-Guild Contacts
+.email:................... adwaithha8c@gmail.com
+.tumblr:......................... @wunderby
+.discord:........................ wunderby
 
-.Email.Scroll:................... your_email@email.com
-.Tumblr:......................... @your_tumblr_handle
-.Discord:........................ your_username
-.GitHub:......................... github.com/andrewgrant
 
-Guild Ledger & Records
+-------------------------------------------------------
 
-.Repositories:................... XX
-.Commits:........................ XX
-.Contributions:.................. XX
-.Stars:.......................... XX
-.Followers:...................... XX
-.Lines of Code:.................. XX
+"Father, if you be willing-
+ Let this cup pass me by.
+ Yet not as I will; but as you will.
 
-───────────────────────────────────────────────────────
-
-"Not all those who wander are lost;
- some are just debugging."
-
-andrew@grant:~$ █
+ By my will, thine will be done"
 </pre>
 
 </td>
