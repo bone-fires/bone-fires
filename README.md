@@ -16,8 +16,8 @@
 .OS:............................. Windows(yeah, sue me)
 .IDE:............................ VSCode, A-SDK
 
-understands:................ Python(cute language, icl), C(this is how we were meant to code)
-furthermore:............... HTML, CSS, Markdown(THE UNDISPUTED GOAT, I WILL FIGHT YOU)
+understands:................ Python, C(this is how we were meant to code)
+furthermore:............... HTML, CSS, Markdown(THE UNDISPUTED GOAT)
 
 primarily engaging in:.................
     • basically any opensource project that catches my eye( shiny things)
